@@ -1,18 +1,8 @@
 # Executive Briefing
 
-### Declaration of Authorship
 
-I, [Yuning Jiang], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
-[Yuning Jiang]
 
-Date of signature: 11 Jan, 2022
-Assessment due date: 11 Jan, 2022
-Student Number: 20103637
-
-Word counts:1518
-
----
 
 
    <br /> 
